@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.monotonic.generics._5_wildcards.bounded.PersonStorageTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-08-08T13:49:47" hostname="L-BKASH-MAC-55.local" time="0.003">
+  <properties/>
+  <testcase name="savesAndLoadsPerson" classname="com.monotonic.generics._5_wildcards.bounded.PersonStorageTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
